@@ -109,15 +109,15 @@ skills:
     toolset:
       - name: Python
         level: 100%
+        
+      - name: Matlab
+        level: 90%
 
       - name: PyTorch & Tensorflow
         level: 85%
         
       - name: Git
         level: 80%
-
-      - name: Matlab
-        level: 75%
 
       - name: Bash/Unix
         level: 60%
