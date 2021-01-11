@@ -68,7 +68,7 @@ education:
 experiences:
     - role: Student Informatics Assistant II
       time: 2018 - Present
-      company: Children\'s Hospital of Philadelphia, Philadelphia
+      company: Children's Hospital of Philadelphia, Philadelphia
       details: |
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
           - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARDS) events in children. 
