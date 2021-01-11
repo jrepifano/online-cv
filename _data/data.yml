@@ -60,7 +60,7 @@ education:
     - degree: Certificate of Undergraduate Studies (CUGS) - Combat Systems Engineering
       university: Rowan University
       time: 2015 - 2019
-      details: Relevant Coursework:
+      details: Relevant Coursework
           - Radar systems
           - Command and Control
           - Weapon Systems
@@ -69,7 +69,7 @@ experiences:
     - role: Student Informatics Assistant II
       time: 2018 - Present
       company: Children\'s Hospital of Philadelphia, Philadelphia
-      details:
+      details: 
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
           - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARDS) events in children. 
             Paper has been submitted to anesthesiology
