@@ -42,12 +42,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a current PhD Candidate at Rowan University. My dissertation topic is how explainable AI affects the percieved 
+      utility of a machine learning model when presented to experts in the field. Specifically, my model is trained to predict 
+      mortality in the ICU given 12 lab values obtained during the patients first 24 hours at the hopsital. My research 
+      interests are in influence functions, saliency maps, parameter pruning/compression, ensemble methods and feature selection. 
 education:
     - degree: PhD in Engineering
       university: Rowan University
@@ -88,6 +86,39 @@ experiences:
           - Updated Quality Management System and briefed NSWCPD Commanding Officer and Technical Director
           - Worked with the Chief Engineer on the standard operating procedure for Risk Management at NSWCPD
           - Designed MS Access-SQL Database for metric tracking
+
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: Towards an Explainable Mortality Prediction Tool
+        link: "#"
+        authors: Jacob R. Epifano, Ravi P. Ramachandran, Sharad Patel, Ghulam Rasool
+        conference: "Machine Learning for Signal Processing (MLSP), 2020"
+
+      - title: Machine Learning Analysis of Digital Clock Drawing Test Performance for 
+               Differential Classification of Mild Cognitive Impairment Subtypes Versus Alzheimer’s Disease
+        link: "#"
+        authors: Russell Binaco, Nicholas Calzaretto, Jacob Epifano, Sean McGuire, Muhammad Umer, Sheina Emrani,
+                 Victor Wasserman, David J Libon, Robi Polikar
+        conference: "Journal of the International Neuropsychological Society"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: PyTorch
+        level: 85%
+
+      - name: Matlab
+        level: 75%
+
+      - name: Bash/Unix
+        level: 60%
+          
 projects:
     title: Projects
     intro: >
@@ -114,50 +145,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
