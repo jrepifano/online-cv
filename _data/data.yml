@@ -69,7 +69,7 @@ experiences:
     - role: Student Informatics Assistant II
       time: 2018 - Present
       company: Children\'s Hospital of Philadelphia, Philadelphia
-      details: 
+      details: |
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
           - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARDS) events in children. 
             Paper has been submitted to anesthesiology
@@ -78,13 +78,13 @@ experiences:
     - role: Machine Learning Engineer
       time: 2018 - 2018
       company: Lockheed Martin, Moorestown
-      details: 
+      details: |
           - Reserach and test various deep learning solutions for future Radar Discrimination Systems
           - Presented findings to colleagues from MIT, SEG, and APL. 
     - role: Quality Management Intern
       time: 2017 - 2017
       company: Naval Surface Warfare Center, Philadelphia
-      details:
+      details: |
           - Updated Quality Management System and briefed NSWCPD Commanding Officer and Technical Director
           - Worked with the Chief Engineer on the standard operating procedure for Risk Management at NSWCPD
           - Designed MS Access-SQL Database for metric tracking
