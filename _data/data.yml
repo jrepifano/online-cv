@@ -52,63 +52,42 @@ education:
     - degree: PhD in Engineering
       university: Rowan University
       time: 2019 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: GPA: 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
       time: 2015 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: GPA: 3.45
+    - degree: Certificate of Undergraduate Studies (CUGS): Combat Systems Engineering
+      university: Rowan University
+      time: 2015 - 2019
+      details: Relevant Coursework:
+          - Radar systems
+          - Command and Control
+          - Weapon Systems
+          - War Gaming and C4ISR
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Student Informatics Assistant II
+      time: 2018 - Present
+      company: Children's Hospital of Philadelphia, Philadelphia
+      details:
+          - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
+          - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARDS) events in children. 
+            Paper has been submitted to anesthesiology
+          - Designed, implemented and tested early warning system for mortality in ICU based on vital signs
+          - Served as a consultant to co-workers on deep learning technologies such as PyTorch and PyTorch-lightning.
+    - role: Machine Learning Engineer
+      time: 2018 - 2018
+      company: Lockheed Martin, Moorestown
+      details: 
+          - Reserach and test various deep learning solutions for future Radar Discrimination Systems
+          - Presented findings to colleagues from MIT, SEG, and APL. 
+    - role: Quality Management Intern
+      time: 2017 - 2017
+      company: Naval Surface Warfare Center, Philadelphia
+      details:
+          - Updated Quality Management System and briefed NSWCPD Commanding Officer and Technical Director
+          - Worked with the Chief Engineer on the standard operating procedure for Risk Management at NSWCPD
+          - Designed MS Access-SQL Database for metric tracking
 projects:
     title: Projects
     intro: >
