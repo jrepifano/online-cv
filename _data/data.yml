@@ -52,11 +52,11 @@ education:
     - degree: PhD in Engineering
       university: Rowan University
       time: 2019 - 2021
-      details: GPA: 3.9
+      details: GPA - 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
       time: 2015 - 2019
-      details: GPA: 3.45
+      details: GPA - 3.45
     - degree: Certificate of Undergraduate Studies (CUGS): Combat Systems Engineering
       university: Rowan University
       time: 2015 - 2019
@@ -68,7 +68,7 @@ education:
 experiences:
     - role: Student Informatics Assistant II
       time: 2018 - Present
-      company: Children's Hospital of Philadelphia, Philadelphia
+      company: Children\'s Hospital of Philadelphia, Philadelphia
       details:
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
           - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARDS) events in children. 
