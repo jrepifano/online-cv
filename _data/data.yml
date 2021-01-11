@@ -91,6 +91,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
+        link: "https://jrepifano.github.io/papers/saliency.pdf"
+        authors: Ian E. Nielsen, Jacob R. Epifano, Ghulam Rasool, Nidhal C. Bouaynaya and Ravi P. Ramachandran
+        conference: "International Symposium on Circuits and Systems (ISCAS), 2021"
+    
       - title: Towards an Explainable Mortality Prediction Tool
         link: "https://jrepifano.github.io/papers/towards.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Sharad Patel, Ghulam Rasool
