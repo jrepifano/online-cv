@@ -92,13 +92,13 @@ publications:
     intro: |
     papers:
       - title: Towards an Explainable Mortality Prediction Tool
-        link: "https://jrepifano.github.io/papoers/towards.pdf"
+        link: "https://jrepifano.github.io/papers/towards.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Sharad Patel, Ghulam Rasool
         conference: "Machine Learning for Signal Processing (MLSP), 2020"
 
       - title: Machine Learning Analysis of Digital Clock Drawing Test Performance for 
                Differential Classification of Mild Cognitive Impairment Subtypes Versus Alzheimer’s Disease
-        link: "https://jrepifano.github.io/papoers/dCDTmachinelearningMCI.JINS.2020.pdf"
+        link: "https://jrepifano.github.io/papers/dCDTmachinelearningMCI.JINS.2020.pdf"
         authors: Russell Binaco, Nicholas Calzaretto, Jacob Epifano, Sean McGuire, Muhammad Umer, Sheina Emrani,
                  Victor Wasserman, David J Libon, Robi Polikar
         conference: "Journal of the International Neuropsychological Society"
