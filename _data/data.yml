@@ -92,7 +92,7 @@ publications:
     intro: |
     papers:
       - title: Towards an Explainable Mortality Prediction Tool
-        link: "#"
+        link: "google.com"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Sharad Patel, Ghulam Rasool
         conference: "Machine Learning for Signal Processing (MLSP), 2020"
 
