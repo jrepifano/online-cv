@@ -65,7 +65,7 @@ education:
           - War Gaming and C4ISR
 experiences:
     - role: Student Informatics Assistant II
-      time: 2018 - Present
+      time: November 2018 - Present
       company: Children's Hospital of Philadelphia, Philadelphia
       details: |
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
@@ -74,13 +74,13 @@ experiences:
           - Designed, implemented and tested early warning system for mortality in ICU based on vital signs
           - Served as a consultant to co-workers on deep learning technologies such as PyTorch and PyTorch-lightning.
     - role: Radar Systems Engineer
-      time: 2018 - 2018
+      time: May 2018 - November 2018
       company: Lockheed Martin, Moorestown
       details: |
           - Reserach and test various deep learning solutions for future Radar Discrimination Systems
           - Presented findings to colleagues from MIT, SEG, and APL. 
     - role: Quality Management Intern
-      time: 2017 - 2017
+      time: June 2017 - September 2017
       company: Naval Surface Warfare Center, Philadelphia
       details: |
           - Updated Quality Management System and briefed NSWCPD Commanding Officer and Technical Director
