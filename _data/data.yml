@@ -130,11 +130,10 @@ skills:
 projects:
     title: Projects
     intro: >
-        Here are some of my repositories with work I've done in undergrad and  in postgrad. 
     assignments:
       - title: Deployment of an ICU Mortality Prediction Model
         link: "https://github.com/jrepifano/mortality-tool"
-        tagline: "My big project. Click the link to learn more!
+        tagline: "My big project. Click the link to learn more!"
         
       - title: Influece Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
