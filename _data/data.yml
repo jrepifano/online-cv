@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a current PhD Candidate at Rowan University. My dissertation topic is how explainable AI affects the percieved 
+      I am a current PhD Candidate at Rowan University. My dissertation topic is how explainable AI affects the perceived 
       utility of a machine learning model when presented to experts in the field. Specifically, my model is trained to predict 
       mortality in the ICU given 12 lab values obtained during the patients first 24 hours at the hopsital. My research 
       interests are in influence functions, saliency maps, parameter pruning/compression, ensemble methods and feature selection. 
@@ -135,7 +135,7 @@ projects:
         link: "https://github.com/jrepifano/mortality-tool"
         tagline: "My big project. Click the link to learn more!"
         
-      - title: Influece Pytorch
+      - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
         tagline: "An extended implementation of influence functions that fixes a lot of issues with the original implmentation."
         
@@ -145,4 +145,4 @@ projects:
 
       - title: Machine Learning
         link: "https://github.com/jrepifano/Machine-Learning"
-        tagline: "while I was learning machine learning I had to implement many of the basic algorithms in MATLAB. I wrote this in undergrad so go easy on it."
+        tagline: "while I was learning classical machine learning I had to implement many of the basic algorithms in MATLAB. I wrote this in undergrad so go easy on it."
