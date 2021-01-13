@@ -138,10 +138,11 @@ projects:
       - title: Influece Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
         tagline: "An extended implementation of influence functions that fixes a lot of issues with the original implmentation."
+        
+      - title: Reinforcement Learning
+        link: "https://github.com/jrepifano/Reinforcement-Learning"
+        tagline: "A final project where I implemented Monte Carlo methods to find the optimal blackjack policy."
 
       - title: Machine Learning
         link: "https://github.com/jrepifano/Machine-Learning"
         tagline: "while I was learning machine learning I had to implement many of the basic algorithms in MATLAB. I wrote this in undergrad so go easy on it."
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
