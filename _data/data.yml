@@ -42,10 +42,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a current PhD Candidate at Rowan University. My dissertation topic is how explainable AI affects the perceived 
-      utility of a machine learning model when presented to experts in the field. Specifically, my model is trained to predict 
-      mortality in the ICU given 12 lab values obtained during the patients first 24 hours at the hopsital. My research 
-      interests are in influence functions, saliency maps, parameter pruning/compression, ensemble methods and feature selection. 
+      I am a PhD Candidate at Rowan University. My research interests are in explainable AI and how these algorithms
+      can affect the utility of a deployed model. My current work is on a now deployed machine learning model that is being used
+      by clinicians in ICUs across the US. This model has been trained to predict all-cause mortality and gives an explanation of its prediction
+      as well as an uncertainty metric in the form of a confidence score. More on this can be found in the projects section.
 education:
     - degree: PhD in Engineering
       university: Rowan University
