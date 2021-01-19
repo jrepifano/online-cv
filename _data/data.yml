@@ -45,7 +45,7 @@ career-profile:
       I am a PhD Candidate at Rowan University. My research interests are in explainable AI and how these algorithms
       can affect the utility of a deployed model. My current work is on a now deployed machine learning model that is being used
       by clinicians in ICUs across the US. This model has been trained to predict all-cause mortality and gives an explanation of its prediction
-      as well as an uncertainty metric in the form of a confidence score. More on this can be found in the projects section.
+      as well as an uncertainty metric in the form of a confidence score (via Bayesian Learning). More on this can be found in the projects section.
 education:
     - degree: PhD in Engineering
       university: Rowan University
