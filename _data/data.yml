@@ -36,16 +36,20 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Gaming
+      - item: Snowboarding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD Candidate at Rowan University. My research interests are in explainable AI and how these algorithms
-      can affect the utility of a deployed model. My current work is on a now deployed machine learning model that is being used
-      by clinicians in ICUs across the US. This model has been trained to predict all-cause mortality and gives an explanation of its prediction
-      as well as an uncertainty metric in the form of a confidence score (via Bayesian Learning). More on this can be found in the projects section.
+      I am a PhD student at Rowan University expected to graduate in December 2021. I currently manage a research team consisting of eight undergraduates, 
+      and two graduate students. Our undergraduate team is continuing to work on AI in the ICU by examinging enseble methods
+      and feature selection to find the optimal mortality predictuion model. Our graduate students are focused on explainable AI
+      and how we can evaluate how these methods perform across different domains (tabular, image, time-series). My current project is on a 
+      now deployed machine learning model that is being used by clinicians in ICUs across the US. This model has been trained to predict 
+      all-cause mortality and gives an explanation of its prediction as well as an uncertainty metric in the form of a confidence score 
+      (via Bayesian Learning). More on this can be found in the projects section.
+      
 education:
     - degree: PhD in Engineering
       university: Rowan University
