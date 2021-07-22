@@ -68,6 +68,13 @@ education:
           - Weapon Systems
           - War Gaming and C4ISR
 experiences:
+    - role: DSP/ML Consultant
+      time: March 2021 - Present
+      company: RTM Vital Signs, Philadelphia
+      details: |
+          - Designed and implemented signal processing pipeline for auditory breathing data
+          - Designed and implemented feature extraction and model selection pipelines to convert audio to tidal volume
+          - Implemented hyperparameter optimization via bayesian search
     - role: Student Informatics Assistant II
       time: November 2018 - Present
       company: Children's Hospital of Philadelphia, Philadelphia
