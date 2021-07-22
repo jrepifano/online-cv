@@ -98,24 +98,24 @@ publications:
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
         authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
-        conference: Submitted: "International Conference on Neural Information Processing (ICONIP), 2021"
+        conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2021"
         
       - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
         link: "https://jrepifano.github.io/papers/saliency.pdf"
         authors: Ian E. Nielsen, Jacob R. Epifano, Ghulam Rasool, Nidhal C. Bouaynaya and Ravi P. Ramachandran
-        conference: Submitted: "International Symposium on Circuits and Systems (ISCAS), 2021"
+        conference: "Submitted: International Symposium on Circuits and Systems (ISCAS), 2021"
     
       - title: Towards an Explainable Mortality Prediction Tool
         link: "https://jrepifano.github.io/papers/towards.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Sharad Patel, Ghulam Rasool
-        conference: Published: "Machine Learning for Signal Processing (MLSP), 2020"
+        conference: "Published: Machine Learning for Signal Processing (MLSP), 2020"
 
       - title: Machine Learning Analysis of Digital Clock Drawing Test Performance for 
                Differential Classification of Mild Cognitive Impairment Subtypes Versus Alzheimer’s Disease
         link: "https://jrepifano.github.io/papers/dCDTmachinelearningMCI.JINS.2020.pdf"
         authors: Russell Binaco, Nicholas Calzaretto, Jacob Epifano, Sean McGuire, Muhammad Umer, Sheina Emrani,
                  Victor Wasserman, David J Libon, Robi Polikar
-        conference: Published: "Journal of the International Neuropsychological Society"
+        conference: "Published: Journal of the International Neuropsychological Society"
 
 skills:
     title: Skills &amp; Proficiency
