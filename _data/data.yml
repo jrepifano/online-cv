@@ -152,7 +152,7 @@ projects:
     assignments:
       - title: Deployment of an ICU Mortality Prediction Model
         link: "https://github.com/jrepifano/mortality-tool"
-        tagline: "My big project. Click the link to learn more!"
+        tagline: "Backend for my mortality prediction web app."
         
       - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
@@ -164,4 +164,4 @@ projects:
 
       - title: Machine Learning
         link: "https://github.com/jrepifano/Machine-Learning"
-        tagline: "while I was learning classical machine learning I had to implement many of the basic algorithms in MATLAB."
+        tagline: "Implementation of classical machine learning methods such as Linear/Logistic Regression, SVM, MLP, etc"
