@@ -129,16 +129,18 @@ skills:
     intro: >
     assignments:
       - title: Python
-      - tagline: Numpy, Pandas, Scikit-learn
+        tagline: "Numpy, Pandas, Scikit-learn"
 
       - title: Deep Learning Frameworks
-      - tagline: Pytorch, Tensorflow
+        tagline: "Pytorch, Tensorflow, Keras"
       
       - title: Machine Learning Specializations
-      - tagline: Explainable AI (XAI), Bayesian Inference, 
+        tagline: "Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics"
       
       - title: Platforms
-      - tagline: GCP, AWS, Azure
+        tagline: "GCP, AWS, Azure"
+      
+      - title: Digital Signal Processing
       
           
 projects:
