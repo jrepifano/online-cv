@@ -129,19 +129,15 @@ skills:
     intro: >
     assignments:
       - title: Python
-      - link: >
       - tagline: Numpy, Pandas, Scikit-learn
 
       - title: Deep Learning Frameworks
-      - link: >
       - tagline: Pytorch, Tensorflow
       
       - title: Machine Learning Specializations
-      - link: >
       - tagline: Explainable AI (XAI), Bayesian Inference, 
       
       - title: Platforms
-      - link: >
       - tagline: GCP, AWS, Azure
 
       - title: Matlab
