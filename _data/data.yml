@@ -127,7 +127,7 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Python
+      - name: Python - Numpy, Pandas, Scikit-learn
         level: 100%
 
       - name: PyTorch & Tensorflow
@@ -140,6 +140,8 @@ skills:
         level: 80%
 
       - name: Bash/Unix
+      
+      - name: GCP, AWS, Azure
           
 projects:
     title: Projects
