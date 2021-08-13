@@ -152,7 +152,7 @@ projects:
     assignments:
       - title: Deployment of an ICU Mortality Prediction Model
         link: "https://github.com/jrepifano/mortality-tool"
-        tagline: "Backend for my mortality prediction web app."
+        tagline: "ML backend for my mortality prediction web app."
         
       - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
