@@ -131,11 +131,8 @@ skills:
       - title: Python
         tagline: "Numpy, Pandas, Scikit-learn"
 
-      - title: Deep Learning Frameworks
-        tagline: "Pytorch, Tensorflow, Keras"
-      
-      - title: Machine Learning Specializations
-        tagline: "Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics, Feature Selection, Image Processing"
+      - title: Machine learning
+        tagline: "Pytorch, Tensorflow, Keras, Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics, Feature Selection, Image Processing"
       
       - title: Platforms
         tagline: "Git, HPC, GCP, AWS, Azure"
