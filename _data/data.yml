@@ -126,20 +126,20 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    intro: |
-    papers:
-      - title: Python
-        link: "https://jrepifano.github.io/papers/featureselection.pdf"
-        authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
-        conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2021"
+    toolset:
+      - name: Python
+        level: 100%
 
-      - title: PyTorch & Tensorflow
-        
-      - title: Matlab
-        
-      - title: Git
+      - name: PyTorch & Tensorflow
+        level: 90%
 
-      - title: Bash/Unix
+      - name: Matlab
+        level: 85%
+
+      - name: Git
+        level: 80%
+
+      - name: Bash/Unix
           
 projects:
     title: Projects
