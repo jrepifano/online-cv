@@ -47,7 +47,7 @@ career-profile:
       and feature selection methods to find the optimal mortality prediction model. Our graduate students are focused on explainable AI
       and how we can evaluate the performance of these methods across different data domains. My current work is the management and data collection of the now deployed mortality
       prediction model. This model has been trained to predict all-cause mortality based on first-day lab values. The novelty of the method is in its explanation and uncertainty
-      quantification via influence functions and Bayesian inference. In addition to my research I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
+      quantification via influence functions and Bayesian inference. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
       
 education:
     - degree: PhD in Engineering
@@ -134,10 +134,10 @@ skills:
         tagline: "Pytorch, Tensorflow, Keras"
       
       - title: Machine Learning Specializations
-        tagline: "Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics"
+        tagline: "Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics, Feature Selection, Image Processing"
       
       - title: Platforms
-        tagline: "GCP, AWS, Azure"
+        tagline: "Git, HPC, GCP, AWS, Azure"
       
       - title: Digital Signal Processing
       
