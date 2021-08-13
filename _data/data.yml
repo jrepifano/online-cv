@@ -127,15 +127,15 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-      - title: Python
+      - name: Python
 
-      - title: PyTorch & Tensorflow
+      - name: PyTorch & Tensorflow
         
-      - title: Matlab
+      - name: Matlab
         
-      - title: Git
+      - name: Git
 
-      - title: Bash/Unix
+      - name: Bash/Unix
           
 projects:
     title: Projects
