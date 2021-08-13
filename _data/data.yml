@@ -126,22 +126,26 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    toolset:
-      - name: Python - Numpy, Pandas, Scikit-learn
-        level: 100%
+    intro: >
+    assignments:
+      - title: Python
+      - tagline: Numpy, Pandas, Scikit-learn
 
-      - name: PyTorch & Tensorflow
-        level: 90%
-
-      - name: Matlab
-        level: 85%
-
-      - name: Git
-        level: 80%
-
-      - name: Bash/Unix
+      - title: Deep Learning Frameworks
+      - tagline: Pytorch, Tensorflow
       
-      - name: GCP, AWS, Azure
+      - title: Machine Learning Specializations
+      - tagline: Explainable AI (XAI), Bayesian Inference, 
+      
+      - title: Platforms
+      - tagline: GCP, AWS, Azure
+
+      - title: Matlab
+
+      - title: Git
+
+      - title: Bash/Unix
+      
           
 projects:
     title: Projects
