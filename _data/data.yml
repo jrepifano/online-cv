@@ -127,21 +127,15 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 100%
+      - title: Python
 
-      - name: PyTorch & Tensorflow
-        level: 90%
+      - title: PyTorch & Tensorflow
         
-      - name: Matlab
-        level: 85%
+      - title: Matlab
         
-      - name: Git
-        level: 80%
+      - title: Git
 
-      - name: Bash/Unix
-        level: 60%
+      - title: Bash/Unix
           
 projects:
     title: Projects
