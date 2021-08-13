@@ -19,16 +19,16 @@
   {% for skill in skills.assignments %}
     <div class="item">
 
-      <span class="skills-title">
+      <span class="skill-title">
         {% if project.link %}
-        <a href="{{ skills.link }}" target="_blank">{{ skills.title }}</a>
+        <a href="{{ skill.link }}" target="_blank">{{ skill.title }}</a>
         {% else %}
-        {{ skills.title }}
+        {{ skill.title }}
         {% endif %}
       </span>
 
-      {% if skills.tagline %}
-      - <span class="skills-tagline">{{ skills.tagline }}</span>
+      {% if skill.tagline %}
+      - <span class="skill-tagline">{{ skill.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
