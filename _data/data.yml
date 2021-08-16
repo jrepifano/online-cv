@@ -91,7 +91,7 @@ publications:
     papers:
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
-        authors: [Jacob R. Epifano], Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
+        authors: [Jacob R. Epifano](https://jrepifano.github.io/online-cv/), Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
         conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2021"
         
       - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
