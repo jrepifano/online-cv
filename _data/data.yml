@@ -31,8 +31,9 @@ career-profile:
       I'm a PhD student at Rowan University expected to graduate in December 2021. I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI
-      and how we can evaluate the performance of these methods across different domains. My current work is the management and data collection of the now deployed mortality
-      prediction model. This model has been trained to predict all-cause mortality based on first-day lab values. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
+      and how we can evaluate the performance of these methods across different domains. Currently, I maintain and supervise the data collection of a deployed mortality
+      prediction model. My current research is on the fragility of explainable methods in deep learning due to random seed and loss curvature and how these issues may be
+      mitigated through the use of Bayesian Neural Networks. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
       
 education:
     - degree: PhD in Engineering
@@ -137,11 +138,11 @@ projects:
     assignments:
       - title: Deployment of an ICU Mortality Prediction Model
         link: "https://github.com/jrepifano/mortality-tool"
-        tagline: "ML backend for my mortality prediction web app. Method achieves state of the art performance over traditional mortality scores such as APACHE and SAPS. The novelty of the method is in its explanation and uncertainty quantification via influence functions and Bayesian inference."
+        tagline: "ML backend for my mortality prediction web app. This model has been trained to predict all-cause mortality based on first-day lab values. The model achieves state of the art performance over traditional mortality scores such as APACHE and SAPS. The novelty of the method is in its explanation and uncertainty quantification via influence functions and Bayesian inference."
         
       - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
-        tagline: "Extention of influence function implementation for PyTorch. To support my models, a PyTorch compatible implementation of influence functions was needed. This implementation includes end-to-end gradients enabling efficient computation of feature attribution."
+        tagline: "Extention of influence function implementation for PyTorch. To support my models, a PyTorch compatible implementation of influence functions was needed. This implementation includes end-to-end gradients, enabling efficient computation of feature attribution."
         
       - title: Reinforcement Learning
         link: "https://jrepifano.github.io/papers/Reinforcement_Learning_Final_Project.pdf"
