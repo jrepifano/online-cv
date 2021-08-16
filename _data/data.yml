@@ -141,7 +141,7 @@ projects:
         
       - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
-        tagline: "Extention of influence function implementation for PyTorch. To support my models, a PyTorch compatible implementation of influence functions was needed. This implementation also fixes key issues such as trunctaed gradients."
+        tagline: "Extention of influence function implementation for PyTorch. To support my models, a PyTorch compatible implementation of influence functions was needed. This implementation includes end-to-end gradients enabling efficient computation of feature attribution."
         
       - title: Reinforcement Learning
         link: "https://jrepifano.github.io/papers/Reinforcement_Learning_Final_Project.pdf"
