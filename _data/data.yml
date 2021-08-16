@@ -25,16 +25,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    interests:
-      - item: Rock Climbing
-        link:
-
-      - item: Hiking
-        link:
-
-      - item: Snowboarding
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
