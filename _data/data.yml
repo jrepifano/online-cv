@@ -32,8 +32,7 @@ career-profile:
       and two graduate students. Our undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. Our graduate students are focused on explainable AI
       and how we can evaluate the performance of these methods across different data domains. My current work is the management and data collection of the now deployed mortality
-      prediction model. This model has been trained to predict all-cause mortality based on first-day lab values. The novelty of the method is in its explanation and uncertainty
-      quantification via influence functions and Bayesian inference. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
+      prediction model. This model has been trained to predict all-cause mortality based on first-day lab values. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
       
 education:
     - degree: PhD in Engineering
@@ -138,7 +137,7 @@ projects:
     assignments:
       - title: Deployment of an ICU Mortality Prediction Model
         link: "https://github.com/jrepifano/mortality-tool"
-        tagline: "ML backend for my mortality prediction web app."
+        tagline: "ML backend for my mortality prediction web app. The novelty of the method is in its explanation and uncertainty quantification via influence functions and Bayesian inference."
         
       - title: Influence Pytorch
         link: "https://github.com/jrepifano/influence-pytorch"
