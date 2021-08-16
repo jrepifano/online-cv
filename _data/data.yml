@@ -60,7 +60,7 @@ experiences:
       details: |
           - Designed and implemented signal processing pipeline for auditory breathing data
           - Designed and implemented feature extraction and model selection pipelines to convert audio to tidal volume
-          - Implemented hyperparameter optimization via bayesian search
+          - Implemented hyperparameter optimization via Bayesian search
     - role: Student Informatics Assistant II
       time: November 2018 - June 2021
       company: Children's Hospital of Philadelphia, Philadelphia
