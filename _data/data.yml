@@ -147,7 +147,7 @@ projects:
         
       - title: Reinforcement Learning
         link: "https://jrepifano.github.io/papers/Reinforcement_Learning_Final_Project.pdf"
-        tagline: "Implementation of Monte Carlo methods to find the optimal blackjack policy. This method achives the theoretical maximum winrate without card counting."
+        tagline: "Implementation of Monte Carlo methods to find the optimal blackjack policy. This method achieves the theoretical maximum win-rate without card counting."
 
       - title: Machine Learning
         link: "https://github.com/jrepifano/Machine-Learning"
