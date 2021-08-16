@@ -28,9 +28,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Rowan University expected to graduate in December 2021. I currently manage a research team consisting of eight undergraduates, 
-      and two graduate students. Our undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
-      and feature selection methods to find the optimal mortality prediction model. Our graduate students are focused on explainable AI
+      I'm a PhD student at Rowan University expected to graduate in December 2021. I currently lead and manage a research team consisting of eight undergraduates, 
+      and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
+      and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI
       and how we can evaluate the performance of these methods across different data domains. My current work is the management and data collection of the now deployed mortality
       prediction model. This model has been trained to predict all-cause mortality based on first-day lab values. In addition to my research, I work part time as a DSP and ML consultant for a Philadelphia based biotech startup.
       
