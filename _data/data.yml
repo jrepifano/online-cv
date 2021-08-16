@@ -64,7 +64,7 @@ experiences:
       company: Children's Hospital of Philadelphia, Philadelphia
       details: |
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
-          - Implemented and tested machine learning pipeline for detecting Accute Respiratory Distress (ARD) events in children
+          - Implemented and tested machine learning pipeline for detecting Acute Respiratory Distress (ARD) events in children
             Paper has been submitted to anesthesiology
           - Designed, implemented and tested early warning system for mortality in ICU based on vital signs
           - Served as a consultant to co-workers on deep learning technologies such as PyTorch and PyTorch-lightning
