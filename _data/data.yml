@@ -54,6 +54,12 @@ education:
           - Weapon Systems
           - War Gaming and C4ISR
 experiences:
+    - role: Senior Data Scientist
+      time: November 2021 - Present
+      company: AiCure, New York
+      details: |
+          - Validated OpenDBM framework
+          - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, and others.
     - role: DSP/ML Consultant
       time: March 2021 - Present
       company: RTM Vital Signs, Philadelphia
