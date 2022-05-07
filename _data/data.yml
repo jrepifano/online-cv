@@ -28,18 +28,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Rowan University expected to graduate in May 2021. I currently lead and manage a research team consisting of eight undergraduates, 
+      I'm a PhD student at Rowan University expected to graduate in Dec 2022. I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. In the last 6 months I have deployed the mortality prediction model and am working
       with ICU clinicians to continually update the app to support their needs. My current research is on the fragility of explainable methods in deep learning due to 
-      random seed and loss curvature and how these issues may be mitigated through the use of Bayesian Neural Networks. In addition to my research, I work full time as a data 
-      scientist at AiCure and part time as a DSP and ML consultant for a Philadelphia based biotech startup.
+      random seed and loss curvature and how these issues may be mitigated through the use of Bayesian Neural Networks. In addition to my research, I work full time as a Senior Data 
+      Scientist at AiCure and part time as a DSP and ML consultant for a Philadelphia based biotech startup.
       
 education:
     - degree: PhD in Engineering
       university: Rowan University
-      time: 2019 - 2021
+      time: 2019 - 2022
       details: GPA - 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
@@ -58,14 +58,14 @@ experiences:
       time: November 2021 - Present
       company: AiCure, New York
       details: |
-          - Responsible for overhaul of facial expressivity digital biomarkers
+          - Designed and implemented automated video quality assessment pipeline for filtering downstream training datasets.
           - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, and others.
     - role: DSP/ML Consultant
       time: March 2021 - Present
       company: RTM Vital Signs, Philadelphia
       details: |
           - Designed and implemented signal processing pipeline for auditory breathing data
-          - Designed and implemented feature extraction and model selection pipelines to convert audio to tidal volume
+          - Designed and implemented feature extraction and model selection pipelines to convert audio to tidal volume and respiratory rate
           - Implemented hyperparameter optimization via Bayesian search
     - role: Student Informatics Assistant II
       time: November 2018 - June 2021
@@ -95,6 +95,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: Revisiting the Fragility of Influence Functions
+        link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
+        authors: Jacob R. Epifano, Ravi P. Ramachandran, Aaron J. Masino, Ghulam Rasool
+        conference: "Submitted: Neural Networks (Elsevier), 2022"
+        
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
         authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
