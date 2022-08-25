@@ -58,10 +58,11 @@ experiences:
       time: November 2021 - Present
       company: AiCure, New York
       details: |
-          - Designed and implemented automated video quality assessment pipeline for filtering data for downstream prediction models.
+          - Designed and implemented automated video quality assessment pipeline for data filtering and cleaning prior to use in downstream prediction models.
+          - Designed and implemented eye-blink detection pipeline to extract the bounding box of each eye, use kalman filters to stabilize these bounding boxes over time and predict eye open/closed for each frame of video
           - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, and others.
     - role: DSP/ML Consultant
-      time: March 2021 - Present
+      time: March 2021 - July 2022
       company: RTM Vital Signs, Philadelphia
       details: |
           - Designed and implemented signal processing pipeline for auditory breathing data
@@ -108,7 +109,7 @@ publications:
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
         authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
-        conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2021"
+        conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2022"
         
       - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
         link: "https://jrepifano.github.io/papers/saliency.pdf"
