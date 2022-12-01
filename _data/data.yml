@@ -58,10 +58,9 @@ experiences:
       time: November 2021 - Present
       company: AiCure, New York
       details: |
+          - Designed and implemented flexible multi-model feature extraction pipeline using PySpark to extract Digital Biomarkers from audio and video data.
           - Designed and implemented automated video quality assessment pipeline for data filtering and cleaning prior to use in downstream prediction models.
-          - Designed and implemented eye-blink detection pipeline to extract the bounding box of each eye, use kalman filters to stabilize these bounding boxes
-            over time and predict eye open/closed for each frame of video
-          - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, and others.
+          - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, Boehringer Ingelheim, and others.
     - role: DSP/ML Consultant
       time: March 2021 - July 2022
       company: RTM Vital Signs, Philadelphia
