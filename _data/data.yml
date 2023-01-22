@@ -39,7 +39,7 @@ career-profile:
 education:
     - degree: PhD in Engineering
       university: Rowan University
-      time: 2019 - 2022
+      time: 2019 - 2023
       details: GPA - 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
@@ -58,7 +58,7 @@ experiences:
       time: November 2021 - Present
       company: AiCure, New York
       details: |
-          - Designed and implemented flexible multi-model feature extraction pipeline using PySpark to extract Digital Biomarkers from audio and video data.
+          - Designed and implemented flexible multi-model feature extraction pipeline using AWS Batch to extract Digital Biomarkers from audio and video data.
           - Designed and implemented automated video quality assessment pipeline for data filtering and cleaning prior to use in downstream prediction models.
           - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, Boehringer Ingelheim, and others.
     - role: DSP/ML Consultant
@@ -109,7 +109,7 @@ publications:
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
         authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
-        conference: "Submitted: International Conference on Neural Information Processing (ICONIP), 2022"
+        conference: "Accepted: IEEE International Symposium on Circuits & Systems (ISCAS), 2023"
         
       - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
         link: "https://jrepifano.github.io/papers/saliency.pdf"
