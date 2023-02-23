@@ -98,13 +98,13 @@ publications:
     papers:
       - title: Video Quality Estimation with RAPIQUE-Python -- A Tutorial
         link: "https://jrepifano.github.io/papers/Video_Quality_Estimation_with_RAPIQUE_Python____A_Tutorial-final.pdf"
-        authors: Jacob R. Epifano, Aaron J. Masino, Sarah Kark, Michelle Worthington, Keesha Moliere, Rich Christe
-        conference: "Submitted: Association for the Advancement of Artificial Intelligence (AAAI), 2023"
+        authors: Jacob R. Epifano, Aaron J. Masino, Rich Christe
+        conference: "Submitted: IEEE Transactions on Image Processing, 2023"
         
       - title: Revisiting the Fragility of Influence Functions
         link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Aaron J. Masino, Ghulam Rasool
-        conference: "Submitted: Neural Networks (Elsevier), 2022"
+        conference: "Accepted: Neural Networks (Elsevier), 2023"
         
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
