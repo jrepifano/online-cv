@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Rowan University expected to graduate in May 2023. I currently lead and manage a research team consisting of eight undergraduates, 
+      I'm a PhD student at Rowan University expected to graduate in June 2023. I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. In the last 6 months I have deployed the mortality prediction model and am working
@@ -104,12 +104,12 @@ publications:
       - title: Revisiting the Fragility of Influence Functions
         link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Aaron J. Masino, Ghulam Rasool
-        conference: "Accepted: Neural Networks (Elsevier), 2023"
+        conference: "Published: Neural Networks (Elsevier), 2023"
         
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
         authors: Jacob R. Epifano, Alison Silvestri, Aakash Tripathi, Alexander Yu, Ghulam Rasool and Ravi P. Ramachandran	
-        conference: "Accepted: IEEE International Symposium on Circuits & Systems (ISCAS), 2023"
+        conference: "Published: IEEE International Symposium on Circuits & Systems (ISCAS), 2023"
         
       - title: Performance Evaluation of Combination Methods of Saliency Mapping Algorithms
         link: "https://jrepifano.github.io/papers/saliency.pdf"
