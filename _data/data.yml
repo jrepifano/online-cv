@@ -31,10 +31,9 @@ career-profile:
       I'm a PhD student at Rowan University expected to graduate in June 2023. I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
-      of these methods across different domains. In the last 6 months I have deployed the mortality prediction model and am working
-      with ICU clinicians to continually update the app to support their needs. My current research is on the fragility of explainable methods in deep learning due to 
-      random seed and loss curvature and how these issues may be mitigated through the use of Bayesian Neural Networks. In addition to my research, I work full time as a Senior Data 
-      Scientist at AiCure and part time as a DSP and ML consultant for a Philadelphia based biotech startup.
+      of these methods across different domains. I deployed the mortality prediction model in 2021 via web app and am working with ICU clinicians to continually update the
+      app to support their needs. My research focus is on explainable AI and Bayesian Neural Networks. In addition to my research, I work full time as a Senior Data Scientist 
+      at AiCure where I am fusing audio, video and text data to predict key clinical endpoints to evaluate patients participating in pharmaceutical trials.
       
 education:
     - degree: PhD in Engineering
@@ -58,6 +57,7 @@ experiences:
       time: November 2021 - Present
       company: AiCure, New York
       details: |
+          - Implemented cross-attention transformer approach to fuse audio, video and text data to predict clinical endpoints.
           - Designed and implemented flexible multi-model feature extraction pipeline using AWS Batch to extract Digital Biomarkers from audio and video data.
           - Designed and implemented automated video quality assessment pipeline for data filtering and cleaning prior to use in downstream prediction models.
           - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, Boehringer Ingelheim, and others.
@@ -96,15 +96,15 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: Video Quality Estimation with RAPIQUE-Python -- A Tutorial
-        link: "https://jrepifano.github.io/papers/Video_Quality_Estimation_with_RAPIQUE_Python____A_Tutorial-final.pdf"
-        authors: Jacob R. Epifano, Aaron J. Masino, Rich Christe
-        conference: "Submitted: IEEE Transactions on Image Processing, 2023"
-        
       - title: Revisiting the Fragility of Influence Functions
         link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Aaron J. Masino, Ghulam Rasool
         conference: "Published: Neural Networks (Elsevier), 2023"
+        
+      - title: Video Quality Estimation with RAPIQUE-Python -- A Tutorial
+        link: "https://jrepifano.github.io/papers/Video_Quality_Estimation_with_RAPIQUE_Python____A_Tutorial-final.pdf"
+        authors: Jacob R. Epifano, Aaron J. Masino, Rich Christe
+        conference: "Submitted: IEEE Transactions on Image Processing, 2023"
         
       - title: A Comparison of Feature Selection Techniques for First-day Mortality Prediction in the ICU
         link: "https://jrepifano.github.io/papers/featureselection.pdf"
