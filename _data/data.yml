@@ -32,7 +32,7 @@ career-profile:
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. I deployed the mortality prediction model in 2021 via web app and am working with ICU clinicians to continually update the
-      app to support their needs. My research focus is on Explainable AI (XAI) and Bayesian Neural Networks. In addition to my research, I work full time as a Senior Data Scientist 
+      app to support their needs. The focus of my research is on the intersection of explainable AI and Bayesian neural networks. In addition to my research, I work full time as a Senior Data Scientist 
       at AiCure where I am fusing audio, video and text data to predict key clinical endpoints to evaluate patients participating in pharmaceutical trials.
       
 education:
