@@ -55,14 +55,14 @@ education:
 experiences:
     - role: Advanced Machine Learning Engineer
       time: May 2023 - Present
-      company: AiCure, New York
+      company: CACI, Florham Park NJ
       details: |
           - Designed and implemented VAE to predict anomalies in network traffic
           - Designed and implemented feature extraction pipeline to perform Network Address Translation (NAT) detection on real time network traffic
           - Collaborated on research studies on deepfake and AI generated text detection
     - role: Senior Data Scientist
       time: November 2021 - May 2023
-      company: AiCure, New York
+      company: AiCure, New York NY
       details: |
           - Implemented cross-attention transformer approach to fuse audio, video and text data to predict clinical endpoints.
           - Designed and implemented flexible multi-model feature extraction pipeline using AWS Batch to extract Digital Biomarkers from audio and video data.
@@ -70,14 +70,14 @@ experiences:
           - Collaborated on research studies with industry partners such as University of Rochester, Bristol Myers Squibb, Boehringer Ingelheim, and others.
     - role: DSP/ML Consultant
       time: March 2021 - July 2022
-      company: RTM Vital Signs, Philadelphia
+      company: RTM Vital Signs, Philadelphia PA
       details: |
           - Designed and implemented signal processing pipeline for auditory breathing data
           - Designed and implemented feature extraction and model selection pipelines to convert audio to tidal volume and respiratory rate
           - Implemented hyperparameter optimization via Bayesian search
     - role: Student Informatics Assistant II
       time: November 2018 - June 2021
-      company: Children's Hospital of Philadelphia, Philadelphia
+      company: Children's Hospital of Philadelphia, Philadelphia PA
       details: |
           - Implemented [Influence functions](https://github.com/kohpangwei/influence-release) in PyTorch 
           - Implemented and tested machine learning pipeline for detecting Acute Respiratory Distress (ARD) events in children.
@@ -86,14 +86,14 @@ experiences:
           - Served as a consultant to co-workers on deep learning technologies such as PyTorch and PyTorch-lightning
     - role: Radar Systems Engineer
       time: May 2018 - November 2018
-      company: Lockheed Martin, Moorestown
+      company: Lockheed Martin, Moorestown NJ
       details: |
           - Researched and tested various deep learning solutions for Radar Discrimination
           - Presented findings to colleagues from MIT, SEG, and APL
           - Purchased hardware for future machine learning efforts
     - role: Quality Management Intern
       time: June 2017 - September 2017
-      company: Naval Surface Warfare Center, Philadelphia
+      company: Naval Surface Warfare Center, Philadelphia PA
       details: |
           - Updated Quality Management System and briefed NSWCPD Commanding Officer and Technical Director
           - Worked with the Chief Engineer on the standard operating procedure for Risk Management at NSWCPD
