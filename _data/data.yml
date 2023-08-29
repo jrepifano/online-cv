@@ -28,12 +28,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Rowan University expected to graduate in June 2023. I currently lead and manage a research team consisting of eight undergraduates, 
+      I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. I deployed the mortality prediction model in 2021 via web app and am working with ICU clinicians to continually update the
-      app to support their needs. The focus of my research is on the intersection of explainable AI and Bayesian neural networks. In addition to my research, I work full time as a Senior Data Scientist 
-      at AiCure where I am fusing audio, video and text data to predict key clinical endpoints to evaluate patients participating in pharmaceutical trials.
+      app to support their needs. The focus of my research is on the intersection of explainable AI and Bayesian neural networks. In addition to my research, I work full time as a Advanced Machine Learning Engineer 
+      at CACI where I am fusing audio, video and text data to predict key endpoints on a variety of problems.
       
 education:
     - degree: PhD in Engineering
@@ -53,8 +53,15 @@ education:
           - Weapon Systems
           - War Gaming and C4ISR
 experiences:
+    - role: Advanced Machine Learning Engineer
+      time: May 2023 - Present
+      company: AiCure, New York
+      details: |
+          - Designed and implemented VAE to predict anomalies in network traffic
+          - Designed and implemented feature extraction pipeline to perform Network Address Translation (NAT) detection on real time network traffic
+          - Collaborated on research studies on deepfake and AI generated text detection
     - role: Senior Data Scientist
-      time: November 2021 - Present
+      time: November 2021 - May 2023
       company: AiCure, New York
       details: |
           - Implemented cross-attention transformer approach to fuse audio, video and text data to predict clinical endpoints.
