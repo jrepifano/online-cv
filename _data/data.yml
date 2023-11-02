@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I currently lead and manage a research team consisting of eight undergraduates, 
+      At Rowan University, I currently lead and manage a research team consisting of eight undergraduates, 
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. I deployed the mortality prediction model in 2021 via web app and am working with ICU clinicians to continually update the
@@ -38,15 +38,15 @@ career-profile:
 education:
     - degree: PhD in Engineering
       university: Rowan University
-      time: May 2019 - Aug 2023
+      time: 2019 - 2023
       details: GPA - 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
-      time: Sep 2015 - May 2019
+      time: 2015 - 2019
       details: GPA - 3.45
     - degree: Certificate of Undergraduate Studies (CUGS) - Combat Systems Engineering
       university: Rowan University
-      time: Sep 2015 - May 2019
+      time: 2015 - 2019
       details: Relevant Coursework
           - Radar systems
           - Command and Control
