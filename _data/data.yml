@@ -38,21 +38,28 @@ career-profile:
 education:
     - degree: PhD in Engineering
       university: Rowan University
-      time: 2019 - 2023
+      time: May 2019 - August 2023
       details: GPA - 3.9
     - degree: BS in Electrical & Computer Engineering
       university: Rowan University
-      time: 2015 - 2019
+      time: September 2015 - May 2019
       details: GPA - 3.45
     - degree: Certificate of Undergraduate Studies (CUGS) - Combat Systems Engineering
       university: Rowan University
-      time: 2015 - 2019
+      time: September 2015 - May 2019
       details: Relevant Coursework
           - Radar systems
           - Command and Control
           - Weapon Systems
           - War Gaming and C4ISR
 experiences:
+    - role: Assistant Researcher
+      time: August 2023 - Present
+      company: Rowan University, Glassboro NJ
+      details: |
+          - Conducted literature reviews to gather relevant background information and identify gaps in existing research.
+          - Assisted in the preparation of research reports, manuscripts, and presentations for conferences and publications.
+          - Contributed to grant writing and fundraising efforts by providing data and research support for grant applications and proposals.
     - role: Advanced Machine Learning Engineer
       time: May 2023 - Present
       company: CACI, Florham Park NJ
