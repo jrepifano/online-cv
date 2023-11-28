@@ -110,6 +110,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond
+        link: "https://jrepifano.github.io/papers/Mortality_arxiv.pdf"
+        authors: Jacob R. Epifano, Stephen Glass, Ravi P. Ramachandran, Sharad Patel, Aaron J. Masino, Ghulam Rasool
+        conference: "Submitted: Artificial Intelligence in Medicine (Elsevier), 2023"
+    
       - title: Revisiting the Fragility of Influence Functions
         link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
         authors: Jacob R. Epifano, Ravi P. Ramachandran, Aaron J. Masino, Ghulam Rasool
