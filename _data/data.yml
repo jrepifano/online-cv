@@ -54,6 +54,12 @@ education:
           - War Gaming and C4ISR
 experiences:
     - role: Advanced Machine Learning Engineer
+      time: February 2024 - Present
+      company: Moffitt Cancer Center, Tampa FL
+      details: |
+          - Wrote Retrieval-Augmented Generation (RAG) Tutorial Paper
+          - Designed and implemented Moffitt Electronic Health Record Foundation Model to extract and abstract a set of pre-defined descriptive fields and endpoints from Moffitt EHR
+    - role: Advanced Machine Learning Engineer
       time: May 2023 - Present
       company: CACI, Florham Park NJ
       details: |
