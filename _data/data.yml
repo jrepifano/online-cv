@@ -154,7 +154,7 @@ skills:
         tagline: "Numpy, Pandas, Scikit-learn"
 
       - title: Machine learning
-        tagline: "Pytorch, Tensorflow, Keras, Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics, Feature Selection, Image Processing"
+        tagline: "Pytorch, HuggingFace, LangChain, Tensorflow, Keras, Explainable AI (XAI), Bayesian Neural Networks, Healthcare, Bioinformatics, Feature Selection, Image Processing"
       
       - title: Platforms
         tagline: "Git, HPC, GCP, AWS, Azure"
