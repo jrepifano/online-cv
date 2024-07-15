@@ -63,6 +63,7 @@ experiences:
       time: May 2023 - Present
       company: CACI, Florham Park NJ
       details: |
+          - Designed and implemented LLM-based RAG pipeline for sensitive document sanitation
           - Designed and implemented VAE to predict anomalies in network traffic
           - Designed and implemented feature extraction pipeline to perform Network Address Translation (NAT) detection on real time network traffic
           - Collaborated on research studies on deepfake and AI generated text detection
