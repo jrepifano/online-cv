@@ -32,11 +32,11 @@ career-profile:
       and two graduate students. The undergraduate team is currently working on AI applications in support of ICU clinicians by examining ensemble
       and feature selection methods to find the optimal mortality prediction model. The graduate students are focused on explainable AI and how we can evaluate the performance
       of these methods across different domains. I deployed the mortality prediction model in 2021 via web app and am working with ICU clinicians to continually update the
-      app to support their needs. The focus of my research is on the intersection of explainable AI and Bayesian neural networks. In addition to my research, I work full time as a Advanced Machine Learning Engineer 
-      at CACI where I am fusing audio, video and text data to predict key endpoints on a variety of problems.
+      app to support their needs. The focus of my research is on the intersection of explainable AI and Bayesian neural networks. In addition to my research, I work full time as a Machine Learning Scientist 
+      at Altea Healthcare where I am fusing audio, video and text data to predict key endpoints on a variety of problems.
       
 education:
-    - degree: PhD in Engineering
+    - degree: PhD in Electrical & Computer Engineering
       university: Rowan University
       time: 2019 - 2023
       details: GPA - 3.9
@@ -53,14 +53,20 @@ education:
           - Weapon Systems
           - War Gaming and C4ISR
 experiences:
+    - role: Machine Learning Scientist
+      time: September 2024 - Present
+      company: Altea Healthcare, Remote
+      details: |
+          - Designed and implemented and deployed RAG pipeline for summarization and chatting with Health Information Exchange (HIE) documents
+          - Implemented, tested and deployed agentic chatbot enabling clinicians to ask questions about patient data
     - role: Visiting Machine Learning Scientist
-      time: February 2024 - Present
+      time: February 2024 - September 2024
       company: Moffitt Cancer Center, Tampa FL
       details: |
           - Wrote Retrieval-Augmented Generation (RAG) Tutorial Paper
           - Designed and implemented Moffitt Electronic Health Record Foundation Model to extract and abstract a set of pre-defined descriptive fields and endpoints from Moffitt EHR
     - role: Advanced Machine Learning Engineer
-      time: May 2023 - Present
+      time: May 2023 - September 2024
       company: CACI, Florham Park NJ
       details: |
           - Designed and implemented LLM-based RAG pipeline for sensitive document sanitation
@@ -113,7 +119,12 @@ publications:
       - title: "Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond"
         link: "https://jrepifano.github.io/papers/Mortality_arxiv.pdf"
         authors: Jacob R. Epifano, Stephen Glass, Ravi P. Ramachandran, Sharad Patel, Aaron J. Masino, Ghulam Rasool
-        conference: "Submitted: Artificial Intelligence in Medicine (Elsevier), 2023"
+        conference: "Submitted: Artificial Intelligence in Medicine (Elsevier), 2024"
+        
+      - title: "Efficient Scaling of Bayesian Neural Networks"
+        link: "https://jrepifano.github.io/papers/Efficient_Scaling_of_Bayesian_Neural_Networks.pdf"
+        authors: Jacob R. Epifano, Timothy Duong, Ravi P. Ramachandran, Ghulam Rasool
+        conference: "Published: IEEE Access, 2024"
         
       - title: Revisiting the Fragility of Influence Functions
         link: "https://jrepifano.github.io/papers/RevisitingFragility.pdf"
