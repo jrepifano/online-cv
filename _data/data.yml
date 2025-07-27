@@ -28,13 +28,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    As a Senior ML Engineer at Altea Healthcare, I lead the development of healthcare AI solutions that directly impact patient care and clinical workflows. 
-    I spearhead a team of 6 ML engineers in designing and deploying production-ready AI products including medical information retrieval systems, intelligent transcription tools, 
-    and real-time clinical alert systems. My expertise spans the full ML lifecycle from research and architecture design to production deployment, with a focus on building scalable healthcare AI 
-    infrastructure using LangGraph, RAG pipelines, and cloud-native technologies. I have established comprehensive evaluation frameworks, observability systems, and CI/CD pipelines on Azure to ensure 
-    reliable and compliant healthcare AI deployments. My work combines deep technical knowledge in NLP, vector databases, and MLOps with domain expertise in clinical workflows, enabling the delivery 
-    of AI solutions that generate significant value for healthcare organizations. I am passionate about leveraging cutting-edge AI technologies to improve patient outcomes and reduce clinician burden 
-    through intelligent automation and decision support systems.
+        As a Senior ML Engineer at Altea Healthcare, I lead the development of healthcare AI solutions that directly impact patient care and clinical workflows. 
+        I spearhead a team of 6 ML engineers in designing and deploying production-ready AI products including medical information retrieval systems, intelligent transcription tools, 
+        and real-time clinical alert systems. My expertise spans the full ML lifecycle from research and architecture design to production deployment, with a focus on building scalable healthcare AI 
+        infrastructure using LangGraph, RAG pipelines, and cloud-native technologies. I have established comprehensive evaluation frameworks, observability systems, and CI/CD pipelines on Azure to ensure 
+        reliable and compliant healthcare AI deployments. My work combines deep technical knowledge in NLP, vector databases, and MLOps with domain expertise in clinical workflows, enabling the delivery 
+        of AI solutions that generate significant value for healthcare organizations. I am passionate about leveraging cutting-edge AI technologies to improve patient outcomes and reduce clinician burden 
+        through intelligent automation and decision support systems.
       
 education:
     - degree: PhD in Electrical & Computer Engineering
